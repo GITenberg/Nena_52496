@@ -1,0 +1,33 @@
+_repo: Nena_52496
+_version: 0.0.1
+alternative_title: Nos. Finnish
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolaj
+    - Gogol, Nikolay Vasilyevich
+    - Гоголь, Николай Васильевич
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+description: ''
+gutenberg_issued: '2016-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52496'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcsh 'Saint Petersburg (Russia) -- Officials and employees -- Fiction'
+- !lcsh 'Nose -- Fiction'
+- GITenberg
+title: Nenä
+url: http://www.gutenberg.org/ebooks/52496
