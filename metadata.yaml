@@ -1,6 +1,9 @@
 _repo: Nena_52496
 _version: 0.1.0
 alternative_title: Nos. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gogol, Nikolai Vasilevich
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/531
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52496#Nena
 gutenberg_issued: '2016-07-04'
 gutenberg_type: Text
 identifiers:
